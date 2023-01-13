@@ -1,0 +1,10 @@
+*.code-workspace
+**/.devcontainer/*
+
+# Python generated files
+**/*.egg-info/*
+**/build/*
+**/dist/*
+
+# Python runtime files
+**/__pycache__/*
